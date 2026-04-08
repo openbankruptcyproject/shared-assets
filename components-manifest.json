@@ -1,0 +1,712 @@
+{
+  "version": "1.0.0",
+  "components": {
+    "ga4-head": {
+      "file": "snippets/ga4-head.html",
+      "marker": "BTN:GA4"
+    },
+    "footer": {
+      "file": "snippets/footer.html",
+      "marker": "BTN:FOOTER"
+    },
+    "btn-engage": {
+      "file": "btn-engage.js",
+      "type": "file-copy"
+    },
+    "favicon": {
+      "file": "favicon.svg",
+      "type": "file-copy"
+    }
+  },
+  "repos": [
+    {
+      "name": "1099cdebt.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "109g.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "341meeting",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "341meeting.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "362stay",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "523a.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "524injunction",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "727a8",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "727a8.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "727a8.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "alaskabankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "arkansasbankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "atlantabankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "atlantabankruptcymill.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "automaticstay.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "averagecreditcarddebt.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "bankaccountlevy.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "bankruptcyatlanta.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "bankruptcyattorneyratings.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "bankruptcychicago.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "bankruptcycost",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "bankruptcycost.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "bankruptcydenied.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "bankruptcydischarge",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "bankruptcydischarge.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "bankruptcydismissed",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "bankruptcyexemptions",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "bankruptcyexemptionsbystate.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "bankruptcyfreshstart.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "bankruptcyhardship.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "bankruptcykansascity.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "bankruptcylawyerreview.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "bankruptcylien",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "bankruptcymalpractice.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "bankruptcymeanstest.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "bankruptcymill.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "bankruptcymill.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "bankruptcynewyork.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "bankruptcystudentloans.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "bankruptcytaxes.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "bankruptcytrustee.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "behindonrent.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "birminghambankruptcymill.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "brunnertest.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "buyacarafterbankruptcy.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "buyahouseafterbankruptcy.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "canifileagain.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "canifilebankruptcytwice.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "cantpaymybills.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "ceaseanddesistdebt.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "chapter13plan.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "chapter7vs13.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "cheapbankruptcylawyer.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "chicagobankruptcymill.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "clevelandbankruptcymill.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "codebtorstay.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "coloradobankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "cosignerrights.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "creditcarddebtbankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "creditcardforgiveness.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "creditcounselingbankruptcy",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "creditscorebankruptcy.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "dallasbankruptcymill.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "debtbuyerrights.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "debtcollectionlawsuit.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "debtconsolidationvsbankruptcy.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "debtrelieforbankruptcy.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "debtsettlementvsbankruptcy.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "debtstatuteoflimitations.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "debttoincomeratio.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "debtvalidationletter.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "defaultjudgment.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "deficiencybalance.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "delawarebankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "denverbankruptcymill.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "detroitbankruptcymill.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "disabilityanddebt.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "dischargebar.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "dischargeinjunction.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "dischargeinjunction.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "dismissalrate.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "dismissedbankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "divorceanddebt.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "eidlbankruptcy.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "eidlloanforgiveness.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "filebankruptcyagain",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "filebankruptcywithoutlawyer.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "firedbymybankruptcylawyer.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "garnishedwages.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "georgiabankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "houstonbankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "houstonbankruptcymill.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "howmuchdoesbankruptcycost.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "howtofilebankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "howtostopdebtcollectors.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "illinoisbankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "indianapolisbankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "indianapolisbankruptcymill.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "iowabankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "judgmentproof.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "kansascitybankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "kansascitybankruptcymill.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "keepmycarinbankruptcy.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "keepmyhouseinbankruptcy.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "lasvegasbankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "lasvegasbankruptcymill.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "lienstripping.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "losangelesbankruptcymill.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "marylandbankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "meanstest.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "medicalbillbankruptcy.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "medicaldebtbankruptcy.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "medicaldebtrights.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "memphisbankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "memphisbankruptcymill.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "miamibankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "miamibankruptcymill.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "milwaukeebankruptcymill.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "minneapolisbankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "minneapolisbankruptcymill.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "minnesotabankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "missouribankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "monitor.openbankruptcyproject.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "mybankruptcylawyerwontcallback.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "newarkbankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "newarkbankruptcymill.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "newyorkbankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "nondischargeable.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "ohiobankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "openbankruptcyproject.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "openbankruptcyproject.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "paydayloandebt.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "phoenixbankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "phoenixbankruptcymill.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "prosebankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "prosedebtors.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "prosequestion",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "reaffirmationagreement",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "reaffirmationagreement.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "rebuildcreditafterbankruptcy.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "relieffromstay.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "rhodeislandbankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "righttocure.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "saborrowerbankruptcy.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "sanantoniobankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "sanantoniobankruptcymill.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "sbaborrowerbankruptcy.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "sbaborrowersbankruptcy.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "section1191.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "section1192.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "section1328.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "section329.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "serialfiler.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "stlouisbankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "stlouisbankruptcymill.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "stopgarnishment.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "studentloandefault.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "studentloanforgive.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "suedbycreditcardcompany.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "suedfordebt.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "tampabankruptcymill.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "tennesseebankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "vacatejudgment.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "vermontbankruptcy.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "voluntarypetition.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "whathappensinbankruptcy.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "whatischapter7.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "whatischapter7.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "whatmilllaw.org",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "whatnottobeforebankruptcy.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "whywasmybankruptcydismissed.com",
+      "org": "openbankruptcyproject"
+    },
+    {
+      "name": "zombiedebt.org",
+      "org": "openbankruptcyproject"
+    }
+  ],
+  "total_repos": 172
+}
